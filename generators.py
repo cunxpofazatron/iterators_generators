@@ -1,3 +1,6 @@
+from logger import logger
+
+
 def flat_generator_1(list_of_lists):
     """
     Задание 2:
@@ -19,3 +22,8 @@ def flat_generator_any(list_of_list):
             yield from flat_generator_any(item)
         else:
             yield item
+
+
+@logger("app.log")
+def flatten_1level_to_list(list_of_lists):
+    return list(flat_generator_1(list_of_lists))
