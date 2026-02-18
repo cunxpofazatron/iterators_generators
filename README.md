@@ -1,5 +1,5 @@
-# Домашнее задание: Iterators / Generators
-  Домашнее задание: Декоратор Logger
+# Домашнее задание: Iterators / Generators // Домашнее задание: Декоратор Logger
+  
   
 ## Файлы
 - `iterators.py` — итераторы (задания 1 и 3)
