@@ -1,4 +1,4 @@
-# Домашнее задание: Iterators / Generators / Yield
+# Домашнее задание: Iterators / Generators
 
 ## Файлы
 - `iterators.py` — итераторы (задания 1 и 3)
